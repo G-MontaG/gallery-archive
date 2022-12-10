@@ -4,7 +4,7 @@
 
 ## Description
 
-Description
+-
 
 ## Materials
 
@@ -39,4 +39,3 @@ November 2022
 | FRONT | BACK |
 | --- | --- |
 | ![Canvas front image](img-front.jpg)  | ![Canvas back image](img-back.jpg)  |
-
